@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=spring-test-junit5-1.0.0.BUILD-SNAPSHOT.jar -DgroupId=org.springframework.test  -DartifactId=spring-test-junit5 -Dversion=1.0.0.BUILD-SNAPSHOT -Dpackaging=jar
